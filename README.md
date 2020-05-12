@@ -1,2 +1,0 @@
-# NoCats
-Created with CodeSandbox
